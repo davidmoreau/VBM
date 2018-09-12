@@ -4,7 +4,7 @@ This repository accompanies the paper "Volumetric and Surface Characteristics of
 - gyrif.png: flat map showing bayes Factors 01 from the cortical gyrification analysis (contrasts all groups with one another)
 - gyrif_inflated: same as above, but inflated brain map
 - sulcus.png: flat map showing bayes Factors 01 from the cortical sulcal depth analysis (contrasts all groups with one another)
-- sulc_inflated: same as above, but inflated brain map
+- sulcus_inflated: same as above, but inflated brain map
 - thickness.png: flat map showing bayes Factors 01 from the cortical thickness analysis (contrasts all groups with one another)
 - thickness_inflated: same as above, but inflated brain map
 - volume.png: flat map showing bayes Factors 01 from the cortical volume analysis (contrasts all groups with one another)
