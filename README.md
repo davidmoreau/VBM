@@ -11,8 +11,9 @@ This repository accompanies the paper "Volumetric and Surface Characteristics of
 - thickness_BF01_flatmap.png: same as above, but flatmap
 - volume_BF01.png: brain map showing Bayes Factors 01 from the gray matter volume analysis (contrasts all groups with one another)
 - volume_BF01_flatmap.png: same as above, but flatmap
-- behavioral_measures.png: violin and box plots for all behavioral measures, broken down by group.
-- quality_control.csv: weighted average for preprocessing and image quality, for all subjects.
+- behavioral_measures.png: violin and box plots for all behavioral measures, broken down by group
+- quality_control.csv: weighted average for preprocessing and image quality, for all subjects
+- IQR_plot.png: quality rating for all analyses, plotted by group.
 
 Link to NeuroVault: https://neurovault.org/collections/4145/
 
