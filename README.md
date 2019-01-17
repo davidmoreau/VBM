@@ -10,7 +10,7 @@ This repository accompanies the paper "Volumetric and Surface Characteristics of
 - gyrification_BF01.png: inflated brain map showing Bayes Factors 01 from the gyrification analysis (contrasts all groups with one another)
 - gyrification_BF01_flatmap.png: same as above, but flatmap
 - sulcal-depth_BF01.png: inflated brain map showing Bayes Factors 01 from the sulcal depth analysis (contrasts all groups with one another)
-- posthoc_comp_XX.png: 
+- posthoc_comp_XX.png: group comparisons on all behavioral measures
 - quality_control.csv: image quality control measure from cat12
 - sulcal-depth_BF01_flatmap.png: same as above, but flatmap
 - thickness_BF01.png: inflated brain map showing Bayes Factors 01 from the cortical thickness analysis (contrasts all groups with one another)
