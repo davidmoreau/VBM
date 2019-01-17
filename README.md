@@ -2,7 +2,7 @@
 
 This repository accompanies the paper "Volumetric and Surface Characteristics of Gray Matter in Adult Dyslexia and Dyscalculia". Files include:
 
-- 01_XX.mat - 12_XX.mat: preprocessing and analysis scripts
+- 01_XX.mat - 13_XX.mat: preprocessing and analysis scripts
 - gyrification_BF01.png: inflated brain map showing Bayes Factors 01 from the gyrification analysis (contrasts all groups with one another)
 - gyrification_BF01_flatmap.png: same as above, but flatmap
 - sulcal-depth_BF01.png: inflated brain map showing Bayes Factors 01 from the sulcal depth analysis (contrasts all groups with one another)
