@@ -2,6 +2,30 @@
 
 This repository accompanies the paper "Volumetric and Surface Characteristics of Gray Matter in Adult Dyslexia and Dyscalculia". Files include:
 
+**cortical_complexity**
+**cortical_thickness**
+**gyrification**
+**sulcal_depth**
+
+├── cortical_complexity/cortical_thickness/gyrification/sulcal_depth
+│   ├── spmF_001: main effect of dyslexia
+│   ├── spmF_002: main effect of dyscalculia
+│   ├── spmF_003: interaction
+│   ├── spmF_004: one-way ANOVA
+│   ├── spmF_005: main effect of comorbidity
+│   ├── XX_main-effect-dyslexia_left: BF01 maps for main effect of dyslexia (left hemisphere)
+│   ├── XX_main-effect-dyslexia_right: BF01 maps for main effect of dyslexia (right hemisphere)
+│   ├── XX_main-effect-dyscalculia_left: BF01 maps for main effect of dyscalculia (left hemisphere)
+│   ├── XX_main-effect-dyscalculia_right: BF01 maps for main effect of dyscalculia (right hemisphere)
+│   ├── XX_main-effect-comorbidity_left: BF01 maps for main effect of comorbidity (left hemisphere)
+│   ├── XX_main-effect-comorbidity_right: BF01 maps for main effect of comorbidity (right hemisphere)
+│   ├── XX_one-way-ANOVA_left: BF01 maps for one-way-ANOVA (left hemisphere)
+│   ├── XX_one-way-ANOVA_right: BF01 maps for one-way-ANOVA (right hemisphere)
+
+**scripts**
+
+
+
 - 01_XX.mat - 13_XX.mat: preprocessing and analysis scripts
 - IQR_plot.png: image quality plot
 - behavioral_measures.png: plot of all four behavioral measures for each group
