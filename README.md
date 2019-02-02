@@ -2,16 +2,9 @@
 
 This repository accompanies the paper "Volumetric and Surface Characteristics of Gray Matter in Adult Dyslexia and Dyscalculia". Files include:
 
-**cortical_complexity**
-**cortical_thickness**
-**gyrification**
-**sulcal_depth**
-
 ```
 ├── cortical_complexity/cortical_thickness/gyrification/sulcal_depth
-
 │   ├── spmF_001: main effect of dyslexia
-
 │   ├── spmF_002: main effect of dyscalculia
 
 │   ├── spmF_003: interaction
