@@ -8,7 +8,9 @@ This repository accompanies the paper "Volumetric and Surface Characteristics of
 **sulcal_depth**
 
 ├── cortical_complexity/cortical_thickness/gyrification/sulcal_depth
+
 │   ├── spmF_001: main effect of dyslexia
+
 │   ├── spmF_002: main effect of dyscalculia
 │   ├── spmF_003: interaction
 │   ├── spmF_004: one-way ANOVA
