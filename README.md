@@ -7,6 +7,7 @@ This repository accompanies the paper "Volumetric and Surface Characteristics of
 **gyrification**
 **sulcal_depth**
 
+```
 ├── cortical_complexity/cortical_thickness/gyrification/sulcal_depth
 
 │   ├── spmF_001: main effect of dyslexia
@@ -34,6 +35,7 @@ This repository accompanies the paper "Volumetric and Surface Characteristics of
 │   ├── XX_one-way-ANOVA_left: BF01 maps for one-way-ANOVA (left hemisphere)
 
 │   ├── XX_one-way-ANOVA_right: BF01 maps for one-way-ANOVA (right hemisphere)
+```
 
 **scripts**
 
