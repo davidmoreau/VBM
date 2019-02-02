@@ -40,8 +40,11 @@ This repository accompanies the paper "Volumetric and Surface Characteristics of
 
 
 `IQR_plot.png: quality rating for all analyses, plotted by group`
+
 `behavioral_measures.png: violin and box plots for all behavioral measures, broken down by group`
+
 `posthoc_comp_XX.png: posthoc comparisons across groups, for all behavioral measures`
+
 `quality_control.csv: weighted average for preprocessing and image quality, for all subjects`
 
 Link to NeuroVault: https://neurovault.org/collections/4145/
