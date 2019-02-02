@@ -4,11 +4,11 @@ This repository accompanies the paper "Volumetric and Surface Characteristics of
 
 ```
 ├── cortical_complexity/cortical_thickness/gyrification/sulcal_depth
-│   ├── spmF_001: main effect of dyslexia
-│   ├── spmF_002: main effect of dyscalculia
-│   ├── spmF_003: interaction
-│   ├── spmF_004: one-way ANOVA
-│   ├── spmF_005: main effect of comorbidity
+│   ├── spmF_0001: main effect of dyslexia
+│   ├── spmF_0002: main effect of dyscalculia
+│   ├── spmF_0003: interaction
+│   ├── spmF_0004: one-way ANOVA
+│   ├── spmF_0005: main effect of comorbidity
 │   ├── XX_main-effect-dyslexia_left: BF01 maps for main effect of dyslexia (left hemisphere)
 │   ├── XX_main-effect-dyslexia_right: BF01 maps for main effect of dyslexia (right hemisphere)
 │   ├── XX_main-effect-dyscalculia_left: BF01 maps for main effect of dyscalculia (left hemisphere)
@@ -19,8 +19,24 @@ This repository accompanies the paper "Volumetric and Surface Characteristics of
 │   ├── XX_one-way-ANOVA_right: BF01 maps for one-way-ANOVA (right hemisphere)
 ```
 
-**scripts**
+```
+├── scripts
+│   ├── XX: preprocessing and modeling scripts
+```
 
+```
+├── supplemental_analyses
+│   ├── cortical_complexity/cortical_thickness/gyrification/sulcal_depth/volume
+│   │   ├── IQR_covariate
+│   │   │   ├── spmF_0001: main effect of dyslexia
+│   │   │   ├── spmF_0002: main effect of dyscalculia
+│   │   │   ├── spmF_0003: interaction
+│   │   │   ├── spmF_0004: one-way ANOVA
+│   │   │   ├── spmF_0005: main effect of comorbidity
+│   │   ├── regression
+│   │   │   ├── math/reading/reading_and_math
+│   │   │   │   ├── spmF_0001: regression with math/reading/reading_and_math scores as predictors
+```
 
 
 - 01_XX.mat - 13_XX.mat: preprocessing and analysis scripts
